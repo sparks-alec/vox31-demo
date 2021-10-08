@@ -21,7 +21,7 @@ All cable is labeled with custom heat shrink sleeves on one end.
 The first sleeve has The Vox31 logo, with the "The" end facing the connector. The next sleeve denotes the cable length as text.
 A half-width wrap of colored electrical tape follows the length. All of this is covered in clear heat shrink.
 
-It is important that all lengths are indicated in text so the color code can be easily learned by unfamiliar technicians.
+It is important that all lengths are indicated in text so the color code can be easily learned.
 
 On XLR cables, the connector ring should be the same color as the electrical tape wraps.
 
