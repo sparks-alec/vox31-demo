@@ -29,7 +29,7 @@ It is important that all lengths are indicated in text so the color code can be 
 On XLR cables, the connector ring should be the same color as the electrical tape wraps.
 
 ### Components
-Heatshrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print.
+Heatshrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print. TODO: add the image files to use when ordering.
 
 A velcro cable tie should be zip-tied to the cable on the same end as the heat shrink.
 
