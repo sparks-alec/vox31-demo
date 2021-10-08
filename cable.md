@@ -9,6 +9,11 @@ Color | Length
 ⬜️ White | 75'
 🟨 Yellow | 100'
 
+Color is indicated via colored electrical tape wraps on both ends of all cables. In addition, most cables are also labeled with a printed heat shrink wrap.
+
+# Terminology
+The Vox31 follows the recommendation of the Professional Audio Manufacturers Alliance (PAMA) to use "Plug" to refer to the version of a connector with pins and "Socket" to refer to the other. Other recommendations can be found at tinyurl.com/PAMA-NN-Guide.
+
 # Labeling
 All cable is labeled with custom heat shrink sleeves on one end.
 ![connector example](https://user-images.githubusercontent.com/919746/136599366-fc1ab0d5-6269-4ca5-a5fd-c20bc240f80d.png)
@@ -21,7 +26,9 @@ It is important that all lengths are indicated in text so the color code can be 
 On XLR cables, the connector ring should be the same color as the electrical tape wraps.
 
 ### Components
-Heatshrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print. 
+Heatshrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print.
+
+A velcro cable tie should be zip-tied to the cable on the same end as the heat shrink.
 
 # Construction
 ### NL4 (speakON)
@@ -63,3 +70,21 @@ Pin | Color | Purpose
 1 | ⚡️ | Shield, Ground
 2 | 🟥 | Positive
 3 | ⬛️ | Negative
+
+
+### Twisted Pair
+All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs.
+
+The Vox31 uses T-568B color code.
+Pin | Color
+-- | --
+1 | ⬜️🟧 White/Orange
+2 | 🟧🟧 Orange
+3 | ⬜🟩 White/Green
+4 | 🟦🟦 Blue
+5 | ⬜🟦 White/Blue
+6 | 🟩🟩 Green
+7 | ⬜️🟫 White/Brown
+8 | 🟫🟫 Brown
+
+When looking at an RJ-45 connector, Pin 1 is on the left when the clip is pointing away from you.
