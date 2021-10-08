@@ -2,6 +2,7 @@
 This document describes the cabling standards used at The Vox31. It can be used as a reference when ordering new components or performing maintenance on existing systems.
 
 # Color Code
+
 Color | Length
 ------------ | -------------
 🟥 Red | 5'
@@ -64,6 +65,7 @@ All DMX cable available to rental users is 5-Pin.
 
 #### DMX over Twisted Pair
 The Vox3l follows ESTA Color Code for DMX over twisted pair cable for architectual applications.
+
 XLR Pin | Twisted Pair Color | Purpose
 -- | -- | --
 1 | ⬜️🟫 White/Brown | Ground
@@ -92,6 +94,7 @@ Pin | Color | Purpose
 All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs. For permanent installation, use shielded Cat6A cable.
 
 The Vox31 uses T-568B color code.
+
 | Pin         | Color       |
 | ----------- | ----------- |
 | 1           |  ⬜️🟧 White/Orange |
