@@ -17,6 +17,8 @@ A half-width wrap of colored electrical tape follows the length.
 
 It is important that all lengths are indicated in text so the color code can be easily learned by unfamiliar technicians.
 
+On XLR cables, the connector ring should be the same color as the electrical tape wraps.
+
 ### Components
 Heatshrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print. 
 
@@ -31,6 +33,7 @@ Color | Length
 
 The Vox31 frequently uses pin-swap adapter cables to separately power two speakers with one NL4 cable. All NL4 cable must be 4-wire to avoid confusion.
 
+
 ### DMX
 Pin | Color | Purpose
 -- | -- | --
@@ -40,8 +43,10 @@ Pin | Color | Purpose
 4 |  | Data 2+
 5 |  | Data 2-
 
-All DMX cable available to rental users is 5-Pin. 3-Pin cable is used for a few behind-the-scenes architctual uses.
+All DMX cable available to rental users is 5-Pin.
+3-Pin cable is used for a few behind-the-scenes architctual uses.
 
+#### DMX over Twisted Pair
 The Vox3l follows ESTA Color Code for DMX over twisted pair cable for architectual applications.
 XLR Pin | Twisted Pair Color | Purpose
 -- | -- | --
@@ -50,6 +55,7 @@ XLR Pin | Twisted Pair Color | Purpose
 3 | ⬜️🟧 White/Orange | Data 1-
 4 | 🟩🟩 Green | Data 2+
 5 | ⬜️🟩 White/Green | Data 2-
+
 
 ### Audio XLR
 Pin | Color | Purpose
