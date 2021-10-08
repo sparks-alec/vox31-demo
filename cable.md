@@ -94,14 +94,14 @@ All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 ethe
 The Vox31 uses T-568B color code.
 | Pin         | Color       |
 | ----------- | ----------- |
-| 1     | ⬜️🟧 White/Orange |
-| 2     | 🟧🟧 Orange |
-| 3     | ⬜🟩 White/Green |
-| 4     | 🟦🟦 Blue |
-| 5     | ⬜🟦 White/Blue |
-| 6     | 🟩🟩 Green |
-| 7     | ⬜️🟫 White/Brown |
-| 8     | 🟫🟫 Brown |
+| 1           |  ⬜️🟧 White/Orange |
+| 2           |  🟧🟧 Orange |
+| 3           |  ⬜🟩 White/Green |
+| 4           |  🟦🟦 Blue |
+| 5           |  ⬜🟦 White/Blue |
+| 6           |  🟩🟩 Green |
+| 7           |  ⬜️🟫 White/Brown |
+| 8           |  🟫🟫 Brown |
 
 When looking at an RJ-45 connector, Pin 1 is on the left when the clip is pointing away from you.
 
