@@ -1,6 +1,4 @@
-# Vox31 Cable Style Guide
-
-## Color Code
+# Color Code
 Color | Length
 ------------ | -------------
 🟥 Red | 5'
@@ -11,7 +9,7 @@ Color | Length
 ⬜️ White | 75'
 🟨 Yellow | 100'
 
-## Labeling
+# Labeling
 All cable is labeled with custom heatshrink sleeves on one end.
 
 The first sleeve has The Vox31 logo, with the "The" end facing the connector. The next sleeve denotes the cable length as text.
@@ -22,7 +20,7 @@ It is important that all lengths are indicated in text so the color code can be 
 ### Components
 Heatshrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print. 
 
-## Construction
+# Construction
 ### NL4 (speakON)
 Color | Length
 ------------ | -------------
@@ -37,16 +35,25 @@ The Vox31 frequently uses pin-swap adapter cables to separately power two speake
 Pin | Color | Purpose
 -- | -- | --
 1 | | Ground
-2 | 🟥 | Data+
-3 | ⬛️ | Data-
+2 | 🟥 | Data 1+
+3 | ⬛️ | Data 1-
+4 |  | Data 2+
+5 |  | Data 2-
 
 All DMX cable available to rental users is 5-Pin. 3-Pin cable is used for a few behind-the-scenes architctual uses.
 
-When DMX is carried over twisted pair cable, The Vox3l follows ESTA Color Code for 
+The Vox3l follows ESTA Color Code for DMX over twisted pair cable for architectual applications.
 XLR Pin | Twisted Pair Color | Purpose
 -- | -- | --
 1 | ⬜️🟫 White/Brown | Ground
 2 | 🟧🟧 Orange | Data 1+
 3 | ⬜️🟧 White/Orange | Data 1-
-4 | 🟩🟩 Green | Data 1+
-5 | ⬜️🟩 White/Green | Data 1-
+4 | 🟩🟩 Green | Data 2+
+5 | ⬜️🟩 White/Green | Data 2-
+
+### Audio XLR
+Pin | Color | Purpose
+-- | -- | --
+1 | | Shield, Ground
+2 | 🟥 | Positive
+3 | ⬛️ | Negative
