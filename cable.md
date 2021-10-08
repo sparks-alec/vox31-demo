@@ -9,7 +9,7 @@ Color | Length
 ⬜️ White | 75'
 🟨 Yellow | 100'
 
-Color is indicated via colored electrical tape wraps on both ends of all cables. In addition, most cables are also labeled with a printed heat shrink wrap.
+Length is indicated via colored electrical tape wraps on both ends of all cables. In addition, most cables are also labeled with a printed heat shrink wrap.
 
 # Terminology
 The Vox31 follows the recommendation of the Professional Audio Manufacturers Alliance (PAMA) for the term "Plug" to refer to the version of a connector with pins and "Socket" to refer to the other. Other recommendations can be found at www.tinyurl.com/PAMA-NN-Guide.
