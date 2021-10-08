@@ -22,7 +22,7 @@ All cable is labeled with custom heat shrink on one end.
 ![connector example](https://user-images.githubusercontent.com/919746/136599366-fc1ab0d5-6269-4ca5-a5fd-c20bc240f80d.png)
 
 The first heat shrink sleeve has The Vox31 logo, with the "The" end facing the connector. The next sleeve denotes the cable length as text.
-A half-width wrap of colored electrical tape follows the length. All of this is covered in clear heat shrink. The clear heat shrink should not be so long as to reduce the flexibility of the cable.
+A half-width wrap of colored electrical tape follows the length. All of this is covered in clear heat shrink. The clear heat shrink should not be so lengthy as to reduce the flexibility of the cable.
 
 It is important that all lengths are indicated in text so the color code can be easily learned.
 
