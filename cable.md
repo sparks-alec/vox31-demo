@@ -36,7 +36,7 @@ On XLR cables, the connector ring should be the same color as the electrical tap
 
 # Construction
 ### NL4 (speakON)
-![nl4](https://user-images.githubusercontent.com/919746/136625044-5f8bf882-6cfa-45db-a7c7-ed3e41570fde.png)
+![nl4](https://user-images.githubusercontent.com/919746/136625539-7c2d4f07-155b-47ae-8639-7f5d4f550d71.png)
 
 Color | Length
 ------------ | -------------
@@ -75,6 +75,8 @@ XLR Pin | Twisted Pair Color | Purpose
 ---
 
 ### Audio XLR
+![xlr3](https://user-images.githubusercontent.com/919746/136625839-38b9d1de-e026-47c1-b4f2-2470a7464883.png)
+
 Pin | Color | Purpose
 -- | -- | --
 1 | ⚡️ | Shield, Ground
@@ -84,7 +86,8 @@ Pin | Color | Purpose
 ---
 
 ### Twisted Pair
-![ethercon](https://user-images.githubusercontent.com/919746/136625074-4432d653-32f4-4489-8ad6-c06b6fe6853f.png)
+![ethercon](https://user-images.githubusercontent.com/919746/136625514-8479e0d8-d9fd-47b7-ac05-59a40ec73fbf.png)
+![rj45](https://user-images.githubusercontent.com/919746/136625828-8556614f-b322-406c-9c8b-74c22be45e1d.png)
 
 All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs. For permanent installation, use shielded Cat6A cable.
 
@@ -101,3 +104,14 @@ Pin | Color
 8 | 🟫🟫 Brown
 
 When looking at an RJ-45 connector, Pin 1 is on the left when the clip is pointing away from you.
+
+---
+### Power (Edison)
+![edison](https://user-images.githubusercontent.com/919746/136626390-94404f2b-6e0d-4225-95f2-4c963f816a96.png)
+
+TODO: heatshrink??? just an edison download from Kevin
+
+---
+### Power (powerCON)
+
+Most equipment in The Vox31 inventory use Neutrik NAC3FCA connectors. TRUE1 cables are not kept in inventory.
