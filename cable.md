@@ -45,6 +45,7 @@ Color | Length
 
 The Vox31 frequently uses pin-swap adapter cables to separately power two speakers with one NL4 cable. All NL4 cable must be 4-wire to avoid confusion.
 
+---
 
 ### DMX
 Pin | Color | Purpose
@@ -67,6 +68,7 @@ XLR Pin | Twisted Pair Color | Purpose
 4 | 🟩🟩 Green | Data 2+
 5 | ⬜️🟩 White/Green | Data 2-
 
+---
 
 ### Audio XLR
 Pin | Color | Purpose
@@ -75,6 +77,7 @@ Pin | Color | Purpose
 2 | 🟥 | Positive
 3 | ⬛️ | Negative
 
+---
 
 ### Twisted Pair
 All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs.
