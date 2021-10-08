@@ -1,3 +1,6 @@
+# The Vox31 Cable Standards
+This document describes the cabling standards used at The Vox31. It can be used as a reference when ordering new components or performing maintenance on existing systems.
+
 # Color Code
 Color | Length
 ------------ | -------------
