@@ -80,7 +80,7 @@ Pin | Color | Purpose
 ---
 
 ### Twisted Pair
-All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs.
+All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs. For permanent installation, use shielded Cat6A cable.
 
 The Vox31 uses T-568B color code.
 Pin | Color
