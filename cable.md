@@ -19,7 +19,7 @@ The Vox31 follows the recommendation of the Professional Audio Manufacturers All
 
 # Labeling
 All cable is labeled with custom heat shrink on one end.
-![connector example](https://user-images.githubusercontent.com/919746/136599366-fc1ab0d5-6269-4ca5-a5fd-c20bc240f80d.png)
+![dmx5](https://user-images.githubusercontent.com/919746/136625031-0d90e06b-fc23-4f8e-857d-02db98374cc0.png)
 
 The first heat shrink sleeve has The Vox31 logo, with the "The" end facing the connector. The next sleeve denotes the cable length as text.
 A half-width wrap of colored electrical tape follows the length. All of this is covered in clear heat shrink. The clear heat shrink should not be so lengthy as to reduce the flexibility of the cable.
@@ -36,6 +36,8 @@ On XLR cables, the connector ring should be the same color as the electrical tap
 
 # Construction
 ### NL4 (speakON)
+![nl4](https://user-images.githubusercontent.com/919746/136625044-5f8bf882-6cfa-45db-a7c7-ed3e41570fde.png)
+
 Color | Length
 ------------ | -------------
 1+ | 🟥 Red
@@ -48,6 +50,8 @@ The Vox31 frequently uses pin-swap adapter cables to separately power two speake
 ---
 
 ### DMX
+![dmx5](https://user-images.githubusercontent.com/919746/136625054-b094ad97-aee1-446b-9760-47c753a82b12.png)
+
 Pin | Color | Purpose
 -- | -- | --
 1 | ⚡️ | Ground
@@ -80,6 +84,8 @@ Pin | Color | Purpose
 ---
 
 ### Twisted Pair
+![ethercon](https://user-images.githubusercontent.com/919746/136625074-4432d653-32f4-4489-8ad6-c06b6fe6853f.png)
+
 All data cable at The Vox31 is Cat6A. Receptacles in the grid are NE8FDX-Y6 etherCON Cat6A which is compatible with standard RJ-45 plugs. For permanent installation, use shielded Cat6A cable.
 
 The Vox31 uses T-568B color code.
